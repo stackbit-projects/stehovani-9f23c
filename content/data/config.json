@@ -4,7 +4,7 @@
     "description": "STěhování, vyklízení, úklid a zahradní práce",
     "layout": "boxed",
     "style": "classic",
-    "palette": "green",
+    "palette": "red",
     "mode": "light",
     "base_font": "serif",
     "header": {
