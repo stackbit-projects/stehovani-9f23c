@@ -27,7 +27,7 @@ sections:
       - title: Stěhování
         subtitle: >-
           Potřebujete přestěhovat z místa na místo, nechce se vám platit drahé
-          stěhovací služby
+          stěhovací služby? Pomůžeme
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
