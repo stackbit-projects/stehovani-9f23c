@@ -56,7 +56,7 @@ sections:
 
           od 250 Kč / hodina / osoba
         actions:
-          - label: Learn More
+          - label: Kou
             url: /style-guide
             style: primary
             has_icon: true
