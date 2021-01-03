@@ -61,6 +61,7 @@ sections:
         image: images/classic/feature-2.png
         media_position: left
         media_width: fifty
+        subtitle: Potřebujete vyklidit pozůstalost
       - title: The Big Title For the Feature
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
         content: >-
