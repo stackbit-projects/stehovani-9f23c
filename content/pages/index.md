@@ -61,7 +61,7 @@ sections:
         image: images/classic/feature-2.png
         media_position: left
         media_width: fifty
-        subtitle: Potřebujete vyklidit pozůstalost
+        subtitle: 'Potřebujete vyklidit pozůstalost, dům nebo byt před rekonstrukcí'
       - title: The Big Title For the Feature
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
         content: >-
