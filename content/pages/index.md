@@ -22,7 +22,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Komu už jsme pomohli
-    subtitle: Grid Section Example
+    subtitle: Spokojení klienti
     align: center
     grid_items:
       - image: images/logo-1.svg
