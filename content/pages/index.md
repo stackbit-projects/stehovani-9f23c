@@ -12,6 +12,7 @@ sections:
         url: /pricing
         style: primary
         has_icon: true
+        icon: arrow-right
     image: images/classic/hero.png
     media_position: left
     media_width: fifty
