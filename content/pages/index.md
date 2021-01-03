@@ -20,20 +20,6 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-  - type: grid_section
-    title: Komu už jsme pomohli
-    subtitle: Spokojení klienti
-    align: center
-    grid_items:
-      - image: images/logo-1.svg
-        image_align: center
-      - image: images/logo-2.svg
-        image_align: center
-      - image: images/logo-3.svg
-        image_align: center
-    grid_cols: four
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
@@ -88,6 +74,20 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
+  - type: grid_section
+    title: Komu už jsme pomohli
+    subtitle: Spokojení klienti
+    align: center
+    grid_items:
+      - image: images/logo-1.svg
+        image_align: center
+      - image: images/logo-2.svg
+        image_align: center
+      - image: images/logo-3.svg
+        image_align: center
+    grid_cols: four
+    grid_gap_horiz: medium
+    grid_gap_vert: medium
   - type: features_section
     features:
       - title: >-
