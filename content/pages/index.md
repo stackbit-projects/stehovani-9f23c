@@ -48,11 +48,11 @@ sections:
         media_width: fifty
       - title: Vyklízení a úklid
         content: |-
-          * Přijedeme obhlídnout situaci
-          * Domluvíme s vámi fixní cenu a potřebný čas
-          * Poradíme si se vším, objednáme si kontejner, vyřešíme zábor apod.
-          * Pochopíme, co se vyhazuje, co třídí a co má zůstat hezky srovnané
-          * Nenecháme po sobě nepořádek
+          * přijedeme obhlídnout situaci
+          * domluvíme s vámi fixní cenu a potřebný čas
+          * poradíme si se vším, objednáme si kontejner, vyřešíme zábor apod.
+          * pochopíme, co se vyhazuje, co třídí a co má zůstat hezky srovnané
+          * nenecháme po sobě nepořádek
 
           od 250 Kč / hodina / osoba
         actions:
