@@ -8,7 +8,7 @@ sections:
       Jste-li odjinud, nebojte se ozvat, nějak se domluvíme. 
     content: ''
     actions:
-      - label: 'Prohlídněte si, co děláme'
+      - label: Co děláme
         url: /pricing
         style: primary
     image: images/classic/hero.png
