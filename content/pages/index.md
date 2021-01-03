@@ -28,10 +28,14 @@ sections:
         subtitle: >-
           Potřebujete přestěhovat z místa na místo a nechce se vám platit drahé
           stěhovací služby? 
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: |-
+          * uděláme krátké omrknutí situace
+          * domluvíme finální cenu
+          * všechno zabalíme, sneseme, naložíme a pečlivě přestěhujeme
+          * uklidíme po sobě
+          * budeme si s vámi volat, když nebude něco jasné
+
+          od 250 Kč / hodina / osoba
         actions:
           - label: Learn More
             url: /style-guide
