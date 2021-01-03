@@ -31,8 +31,6 @@ sections:
         image_align: center
       - image: images/logo-3.svg
         image_align: center
-      - image: images/logo-4.svg
-        image_align: center
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
