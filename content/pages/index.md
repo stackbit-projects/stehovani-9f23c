@@ -63,7 +63,7 @@ sections:
         media_width: fifty
         subtitle: >-
           Potřebujete vyklidit pozůstalost, dům, stodolu nebo byt před
-          rekonstrukcí
+          rekonstrukcí?
       - title: The Big Title For the Feature
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
         content: >-
