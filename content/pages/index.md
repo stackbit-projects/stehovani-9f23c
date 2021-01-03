@@ -11,6 +11,7 @@ sections:
       - label: Co děláme
         url: /pricing
         style: primary
+        has_icon: true
     image: images/classic/hero.png
     media_position: left
     media_width: fifty
