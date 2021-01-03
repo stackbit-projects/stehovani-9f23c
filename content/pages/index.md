@@ -13,7 +13,7 @@ sections:
         style: primary
         has_icon: true
         icon: arrow-right
-    image: images/classic/hero.png
+    image: images/IMG_8730.JPG
     media_position: left
     media_width: fifty
     align: left
