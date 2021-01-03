@@ -120,6 +120,9 @@ sections:
         image: images/brandon-guidelines.png
         media_position: right
         media_width: thirty-three
+        content: |-
+          * Telefon: +420 737 763 38
+          * E-mail: nonestehovani@seznam.cz
     feature_padding_vert: small
     background_color: primary
   - type: cta_section
