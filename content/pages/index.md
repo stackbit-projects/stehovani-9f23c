@@ -47,10 +47,14 @@ sections:
         media_position: right
         media_width: fifty
       - title: Vyklízení
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: |-
+          * Přijedeme obhlídnout situaci
+          * Domluvíme s vámi fixní cenu a potřebný čas
+          * Poradíme si se vším, objednáme si kontejner, vyřešíme zábor apod.
+          * Pochopíme, co se vyhazuje, co třídí a co má zůstat hezky srovnané
+          * Nenecháme po sobě nepořádek
+
+          od 250 Kč / hosina / osoba
         actions:
           - label: Learn More
             url: /style-guide
