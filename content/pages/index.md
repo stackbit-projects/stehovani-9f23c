@@ -115,7 +115,7 @@ sections:
     features:
       - title: >-
           Nevíte jistě, jestli vám vyřešíme zrovna vaše potřeby? Nebojte se
-          zavolat nebo napsat. 
+          zavolat nebo napsat. Domluvíme se!
         subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
         image: images/brandon-guidelines.png
         media_position: right
