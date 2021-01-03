@@ -24,7 +24,7 @@ sections:
     title: S čím vám rádi pomůžeme
     subtitle: Naše služby
     features:
-      - title: The Big Title For the Feature
+      - title: Stěhování
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
