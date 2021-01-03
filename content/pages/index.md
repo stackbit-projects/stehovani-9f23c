@@ -54,7 +54,7 @@ sections:
           * Pochopíme, co se vyhazuje, co třídí a co má zůstat hezky srovnané
           * Nenecháme po sobě nepořádek
 
-          od 250 Kč / hosina / osoba
+          od 250 Kč / hodina / osoba
         actions:
           - label: Learn More
             url: /style-guide
