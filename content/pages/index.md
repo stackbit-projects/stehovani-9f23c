@@ -21,7 +21,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: Pro koho už jsme dělali
+    title: Komu už jsme pomohli
     subtitle: Grid Section Example
     align: center
     grid_items:
