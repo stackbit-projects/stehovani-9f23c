@@ -3,7 +3,7 @@
     "path_prefix": "/",
     "description": "STěhování, vyklízení, úklid a zahradní práce",
     "layout": "boxed",
-    "style": "bold",
+    "style": "classic",
     "palette": "green",
     "mode": "light",
     "base_font": "serif",
