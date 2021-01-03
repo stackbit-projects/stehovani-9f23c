@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: 'Stěhování, vyklízení, úklid a zahradní práce'
-    subtitle: Liberecký a hradecký
+    subtitle: Liberecký a hradecký kraj
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
