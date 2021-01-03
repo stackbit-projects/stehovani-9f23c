@@ -123,6 +123,7 @@ sections:
         content: |-
           * Telefon: +420 737 763 38
           * E-mail: nonestehovani@seznam.cz
+          * Zodpovědná osoba: Ondřej Nesvatba
     feature_padding_vert: small
     background_color: primary
   - type: cta_section
