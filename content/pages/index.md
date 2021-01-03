@@ -46,7 +46,7 @@ sections:
         image: images/classic/feature-1.png
         media_position: right
         media_width: fifty
-      - title: Vyklízení
+      - title: Vyklízení a úklid
         content: |-
           * Přijedeme obhlídnout situaci
           * Domluvíme s vámi fixní cenu a potřebný čas
