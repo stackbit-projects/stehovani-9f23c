@@ -111,15 +111,6 @@
                 "icon": "facebook",
                 "icon_position": "center",
                 "new_window": true
-            },
-            {
-                "label": "LinkedIn",
-                "url": "https://vimeo.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "vimeo",
-                "icon_position": "center",
-                "new_window": true
             }
         ],
         "content": "&copy; NoNe - Stěhování. Ondřej Nesvatba, IČ: 123456789, Sídlo: Hubenov 46, 263 01 Borotice. Zapsaná v OR MS v Praze, L 24216"
