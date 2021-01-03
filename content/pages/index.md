@@ -69,7 +69,9 @@ sections:
           Potřebujete vyklidit pozůstalost, dům, stodolu nebo byt před
           rekonstrukcí?
       - title: Zahradnické práce
-        subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
+        subtitle: >-
+          Nemáte čas na práci kolem domu? Půjčíme to správné nářadí a pustíme se
+          do toho.
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
