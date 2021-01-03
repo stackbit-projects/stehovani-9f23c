@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: 'Stěhování, vyklízení, úklid a zahradní práce'
-    subtitle: >-
-      Vše vyřešíme za vás. Liberecký, Královéhradecký a Středočeský kraj.
-      Jste-li odjinud, nebojte se ozvat, nějak se domluvíme.
+    subtitle: ''
     content: ''
     actions:
       - label: Co děláme
