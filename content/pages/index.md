@@ -6,9 +6,7 @@ sections:
     subtitle: >-
       Vše vyřešíme za vás. Liberecký, Královéhradecký a Středočeský kraj.
       Jste-li odjinud, nebojte se ozvat, nějak se domluvíme. 
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: ''
     actions:
       - label: Try Free
         url: /pricing
