@@ -25,7 +25,9 @@ sections:
     subtitle: Naše služby
     features:
       - title: Stěhování
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: >-
+          Potřebujete přestěhovat z místa na místo, nechce se vám platit drahé
+          stěhovací služby
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
