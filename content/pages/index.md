@@ -68,7 +68,7 @@ sections:
         subtitle: >-
           Potřebujete vyklidit pozůstalost, dům, stodolu nebo byt před
           rekonstrukcí?
-      - title: The Big Title For the Feature
+      - title: Zahradnické práce
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
