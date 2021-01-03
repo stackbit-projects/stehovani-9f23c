@@ -43,7 +43,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/classic/feature-1.png
+        image: images/IMG_8729.JPG
         media_position: right
         media_width: fifty
       - title: Vyklízení a úklid
