@@ -72,10 +72,18 @@ sections:
         subtitle: >-
           Nemáte čas na práci kolem domu? Půjčíme to správné nářadí a pustíme se
           do toho.
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          * jarní příprava zahrady - tvorba záhonů, orání, kypření, mulčování,
+          hrubé prořezávání (bez odborných řezů)
+
+          * průběžný letní a podzimní úklid, sekání, odplevelení a čištění
+
+          * práce v lese - kácení, sázení, čištění lesa
+
+          * sekání a řezání dřeva na topení
+
+
+          od 250 Kč / hodina / osoba
         actions:
           - label: Learn More
             url: /style-guide
