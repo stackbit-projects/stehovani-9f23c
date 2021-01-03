@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Stěhování, vyklízení'
+    title: 'Stěhování, vyklízení, úklid a zahradní práce'
     subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
