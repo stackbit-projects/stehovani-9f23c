@@ -41,7 +41,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Konta",
+                "label": "Kontakt",
                 "url": "/contact",
                 "style": "link"
             },
