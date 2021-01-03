@@ -113,7 +113,9 @@ sections:
     grid_gap_vert: medium
   - type: features_section
     features:
-      - title: 'Nevíte jistě, jestli vám vyřešíme zrovna vaše potřeby? '
+      - title: >-
+          Nevíte jistě, jestli vám vyřešíme zrovna vaše potřeby? Nebojte se
+          zavolat nebo napsat
         subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
         image: images/brandon-guidelines.png
         media_position: right
