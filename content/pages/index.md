@@ -22,7 +22,7 @@ sections:
     background_color: primary
   - type: features_section
     title: S čím vám rádi pomůžeme
-    subtitle: Features Section Example
+    subtitle: Naše služby
     features:
       - title: The Big Title For the Feature
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
