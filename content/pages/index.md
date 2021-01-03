@@ -117,7 +117,7 @@ sections:
           Nevíte jistě, jestli vám vyřešíme zrovna vaše potřeby? Nebojte se
           zavolat nebo napsat. Domluvíme se!
         subtitle: ''
-        image: images/brandon-guidelines.png
+        image: images/circle-cropped (1).png
         media_position: right
         media_width: thirty-three
         content: |-
