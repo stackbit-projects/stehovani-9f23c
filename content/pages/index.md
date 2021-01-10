@@ -13,7 +13,7 @@ sections:
         style: primary
         has_icon: true
         icon: arrow-right
-    image: images/IMG_8730.JPG
+    image: images/9E06B24E-CDA0-48DD-A97A-E78CF8A77868.jpeg
     media_position: left
     media_width: fifty
     align: left
