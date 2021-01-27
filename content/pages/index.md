@@ -7,12 +7,7 @@ sections:
     content: >-
       Vše vyřešíme za vás. Liberecký, Královéhradecký a Středočeský kraj.
       Jste-li odjinud, nebojte se ozvat, nějak se domluvíme.
-    actions:
-      - label: Co děláme
-        url: /pricing
-        style: primary
-        has_icon: true
-        icon: arrow-right
+    actions: []
     image: images/9E06B24E-CDA0-48DD-A97A-E78CF8A77868.jpeg
     media_position: left
     media_width: fifty
