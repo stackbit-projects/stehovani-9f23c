@@ -44,13 +44,7 @@ sections:
           * nenecháme po sobě nepořádek
 
           od 250 Kč / hodina / osoba
-        actions:
-          - label: Kouknout na reference
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/IMG_8724.JPG
         media_position: left
         media_width: fifty
