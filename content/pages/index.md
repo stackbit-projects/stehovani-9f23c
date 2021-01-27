@@ -67,13 +67,7 @@ sections:
 
 
           od 250 Kč / hodina / osoba
-        actions:
-          - label: Kouknout na reference
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/IMG_8663.jpg
         media_position: right
         media_width: fifty
