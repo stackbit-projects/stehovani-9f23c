@@ -86,7 +86,6 @@ sections:
       - image: images/60C7E025-E9A8-4261-84B1-6B9EEE606FA5.jpeg
         image_align: center
         image_width: twenty-five
-        title: huhu
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
