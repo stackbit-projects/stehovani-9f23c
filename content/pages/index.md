@@ -83,7 +83,7 @@ sections:
         image_align: center
       - image: images/6F90E947-049B-4FA5-82CD-B19D1E57D519.png
         image_align: center
-      - image: images/E267FDB7-A43F-4EED-9199-96C7DFBC2CF0.jpeg
+      - image: images/B26AFC79-E3BD-40CF-B1BC-33A56CB25E03.jpeg
         image_align: center
         image_width: twenty-five
     grid_cols: four
