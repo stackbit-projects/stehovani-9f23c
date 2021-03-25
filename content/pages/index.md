@@ -85,6 +85,7 @@ sections:
         image_align: center
       - image: images/E267FDB7-A43F-4EED-9199-96C7DFBC2CF0.jpeg
         image_align: center
+        image_width: fourty
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
