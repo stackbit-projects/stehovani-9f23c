@@ -81,7 +81,7 @@ sections:
     grid_items:
       - image: images/C2AC02D9-FB93-40CC-BC82-5D4E8591F703.jpeg
         image_align: center
-      - image: images/logo-2.svg
+      - image: images/B6E0E779-EC56-4BA2-968D-707AD5A598ED.jpeg
         image_align: center
       - image: images/logo-3.svg
         image_align: center
