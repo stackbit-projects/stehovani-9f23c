@@ -79,7 +79,7 @@ sections:
     subtitle: Spokojení klienti
     align: center
     grid_items:
-      - image: images/logo-1.svg
+      - image: images/C2AC02D9-FB93-40CC-BC82-5D4E8591F703.jpeg
         image_align: center
       - image: images/logo-2.svg
         image_align: center
