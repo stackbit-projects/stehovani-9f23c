@@ -42,7 +42,7 @@
         "secondary_nav_links": [
             {
                 "label": "Kontaktujte nás",
-                "url": "../mailto:nonestehovani@seznam.cz",
+                "url": "../../../ mailto:nonestehovani@seznam.cz",
                 "style": "link",
                 "has_icon": true,
                 "icon": "arrow-right"
