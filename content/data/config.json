@@ -42,7 +42,7 @@
         "secondary_nav_links": [
             {
                 "label": "Kontaktujte nás",
-                "url": "/contact",
+                "url": "mailto",
                 "style": "link",
                 "has_icon": true,
                 "icon": "arrow-right"
